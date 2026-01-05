@@ -82,12 +82,19 @@ java -cp C:\Users\[yourusernamehere]\Documents\near-exclave\DuskFiles\DuskComet-
 
 
 
-## Contribution
+## Contribution to DuskRPG
 
-Near: Exclave isn't really *meant* to go back into DuskRPG, and it will definetly break things if it's pulled into DuskRPG! But if I run into anything that happens to need fixing that also applies to DuskRPG as a whole, I'll be sure to submit any fixes I find as branch PRs in main DuskRPG.
+## Contribution to Near
+
+If you'd like to change something, simply open a pull request! I'd appreciate it a lot.
+If this project is particularly interesting to you, and you'd like to become involved with it or if you have any questions at all, that can be arranged as well! Email `nylonswordsman@gmail.com`; I don't bite! :D
+
+
 
 # DuskRPG
 
 The lovely individuals contributing to DuskRPG deserve so many good things. Their work has singlehandedly kinda saved me a *lot* of work and made this project possible at all in the first place, actually.
 May you wonderful, wonderful people never ever get a shoe pebble again in your lives.
-If this project should be taken down for whatever reason, please let me know and I'll get on it right away! You can shoot me an email at `nylonswordsman@gmail.com`.
+If this project should be taken down or anything changed for whatever reason, please let me know and I'll get on it right away! You can shoot me an email at `nylonswordsman@gmail.com`.
+
+Near isn't really *meant* to go back into DuskRPG, and it will definetly break things if it's pulled into DuskRPG! But if I run into anything that happens to need fixing that also applies to DuskRPG as a whole, I'll be sure to submit any fixes I find as branch PRs in main DuskRPG.
